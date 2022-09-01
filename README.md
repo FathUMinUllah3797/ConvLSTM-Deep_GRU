@@ -1,4 +1,4 @@
-# ConvLSTM-Deep_GRU
+# Deep Learning-Assisted Short-Term Power Load Forecasting Using Deep Convolutional LSTM and Stacked GRU
 
 
 ### The code will be uploaded once the paper get Published.
